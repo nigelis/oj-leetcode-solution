@@ -118,6 +118,7 @@
     <ClCompile Include="src\weekly_contest_30\permutation_in_string.cc" />
     <ClCompile Include="src\weekly_contest_30\reshape_the_matrix.cc" />
     <ClCompile Include="src\weekly_contest_30\subarray_sum_equals_k.cc" />
+    <ClCompile Include="src\weekly_contest_31\distribute_candies.cc" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\gtest\gtest-death-test.h" />

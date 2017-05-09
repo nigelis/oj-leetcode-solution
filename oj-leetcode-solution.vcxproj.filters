@@ -16,6 +16,9 @@
     <Filter Include="Source Files\weekly_contest_30">
       <UniqueIdentifier>{81d1644c-fd8e-459c-a21f-3d2f954ca238}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\weekly_contest_31">
+      <UniqueIdentifier>{e2f463c1-9e27-4bf7-b80b-3a00e83463cc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cc">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="src\weekly_contest_30\permutation_in_string.cc">
       <Filter>Source Files\weekly_contest_30</Filter>
+    </ClCompile>
+    <ClCompile Include="src\weekly_contest_31\distribute_candies.cc">
+      <Filter>Source Files\weekly_contest_31</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
